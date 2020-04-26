@@ -5,21 +5,6 @@
 <h4 align="center">
   🚀 Fullstack Lab
 </h4>
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/WallysonGalvao/fullstacklab-mydailystatus">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/WallysonGalvao/fullstacklab-mydailystatus">
-  
-  <a href="https://github.com/WallysonGalvao/fullstacklab-mydailystatus/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/WallysonGalvao/fullstacklab-mydailystatus">
-  </a>
-
-  <a href="https://github.com/WallysonGalvao/fullstacklab-mydailystatus/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/WallysonGalvao/fullstacklab-mydailystatus">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-</p>
 
 <p align="center">
 <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -84,6 +69,3 @@ $ yarn build
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
----
-
-Feito com horas em frente ao :computer: por [Wallyson Galvão](https://www.linkedin.com/in/wallyson-galvao/)
