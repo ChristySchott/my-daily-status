@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="MyDailyStatus" title="#fullstacklab" src=".github/logo.png" width="250px" />
+    <img alt="MyDailyStatus" title="#fullstacklab" src="logo.png" width="250px" />
 </h1>
 
 <h4 align="center">
